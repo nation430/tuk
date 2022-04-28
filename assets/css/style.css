@@ -1,0 +1,44 @@
+body, html {
+    padding: 0;
+    margin: 0;
+    font-family: Inter,sans-serif;
+    scroll-behavior: smooth;
+    color:#fff;
+  }
+.bg-gray-900{
+    background-color: rgba(17,24,39, 1);
+}
+
+  .text-brand {
+    color: rgba(255,53,101);
+  }
+
+  .nav-links a:hover{
+    color: rgba(255,53,101);
+  }
+
+  .mb-38 {
+    margin-bottom: 38px;
+  }
+
+  .prose p{
+    color: rgba(209,213,219);
+  }
+
+  .bg-800{
+    background-color: rgba(31,41,55, 1);
+  }
+  .prose h3 {
+    font-size: 2.25rem;
+    line-height: 2.5rem;
+    margin-top: 2rem;
+     margin-bottom: .75rem;
+    font-weight: 700;
+  }
+
+  .prose p {
+    margin-bottom: 1.5rem;
+    font-size: 1rem;
+    line-height: 1.5;
+}
+
